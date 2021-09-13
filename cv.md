@@ -20,11 +20,7 @@
 
 ## **Code example:**
 
-
-
 ### **Courses:**
-
-
 
 ### **Languages:**
 
