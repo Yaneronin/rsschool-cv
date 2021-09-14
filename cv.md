@@ -15,7 +15,7 @@
 My goal: to start a career in IT as a front-end developer.
 Priorities: studying new technologies of js to create a product.
 I approach the study of this area with enthusiasm and am ready to give all my strength and time to improve in this direction.
-![mount](mount.png)
+![mount](/mount.jpg)
 
 ## **Skills and Proficiency:**
 
@@ -74,4 +74,3 @@ I approach the study of this area with enthusiasm and am ready to give all my st
 
 **English**
 А2
-
